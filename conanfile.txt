@@ -1,0 +1,11 @@
+[requires]
+sdl/2.0.20
+
+[tool_requires]
+
+[options]
+sdl*:iconv=False
+
+[generators]
+CMakeDeps
+CMakeToolchain
