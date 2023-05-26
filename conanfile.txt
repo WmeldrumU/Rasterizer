@@ -1,5 +1,6 @@
 [requires]
 sdl/2.0.20
+tinyobjloader/2.0.0-rc10
 
 [tool_requires]
 
